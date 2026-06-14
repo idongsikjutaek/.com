@@ -195,7 +195,7 @@ const Cases = () => {
              text-white select-none transition-all
               duration-1000 ease-in-out`}
         style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.5)), url('${backgroundImages[currentIdx]}')`,
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.45),  rgba(0, 0, 0, 0.5)), url('${backgroundImages[currentIdx]}')`,
         }}
       >
         {/* ---------------- MAIN HERO CONTENT ---------------- */}
